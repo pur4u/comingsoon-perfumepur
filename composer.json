@@ -1,0 +1,16 @@
+{
+  "name": "coming soon",
+  "description": "coming soon",
+  "homepage": "http://pur4u.github.io/comingsoon-perfumepur",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Ovidiu L.",
+      "email": "contact@pur4u.ro"
+    }
+  ],
+  "bin": [
+    "bin/heroku-php-apache2",
+    "bin/heroku-php-nginx"
+  ]
+}
